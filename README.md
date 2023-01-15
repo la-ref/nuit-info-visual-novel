@@ -1,5 +1,7 @@
-# Nuit de l'info-BUT2
-Site visant à éduquer les jeunes sur les IST au travers d'un visual Novel 
+# Nuit de l'info 2022
+Site visant à éduquer les jeunes sur les IST au travers d'un visual Novel pour l'évènement La Nuit De L'info de 2022.
+
+https://javafaireunsite.french-heberg.com/
 
 # Projet Réalisé par
     - ELUECQUE Anthony : VUEJS + CSS 
